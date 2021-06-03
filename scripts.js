@@ -1,0 +1,11 @@
+/*let name = prompt('Меня зовут..')
+age = prompt('Возраст..')
+city = prompt('Я проживаю в городе..')
+company = prompt('Работаю в компании..')
+phone = prompt('Мой контактный номер телефоа..')
+email = prompt('Мой адрес эл. почты..')
+console.log(age)
+console.log(city)
+console.log(company)
+console.log(phone)
+console.log(email) */
